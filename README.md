@@ -87,8 +87,5 @@ END
 ---
 
 ## 📊 Dashboard Preview
-![Supply Chain Dashboard](dashboard_screenshot.png)
 
----
-
-## 📁 Files
+https://public.tableau.com/app/profile/ahsan.riaz6023/viz/SupplyChainPerformanceDashboard_17778651547260/Dashboard2
