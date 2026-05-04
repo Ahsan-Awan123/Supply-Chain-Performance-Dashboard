@@ -1,5 +1,5 @@
-#Supply Chain Performance Dashboard | Tableau
-## Purpose
+#**Supply Chain Performance Dashboard**
+##** Purpose**
 This dashboard was built to demonstrate how supply chain data can be transformed into actionable business intelligence. The goal was to go beyond simply visualizing numbers — and instead build a decision-driving tool that helps operations, planning, and leadership teams identify problems, understand root causes, and take targeted action.
 The dataset contains 17 supply chain KPIs across 100 periods covering demand forecasting, inventory management, order fulfillment, delivery performance, supplier lead times, and cost efficiency.
 
